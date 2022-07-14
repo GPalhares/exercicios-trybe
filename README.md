@@ -37,7 +37,7 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
  - [X] **01**: Introdução - HTML & CSS
  - [X] **01**: HTML & CSS - Estruturas de página
- - [ ] **02**: HTML & CSS - Primeiros passos em CSS
+ - [X] **02**: HTML & CSS - Primeiros passos em CSS
  - [ ] **03**: HTML & CSS - Seletores e posicionamento
  - [ ] **04**: HTML Semântico
  - [ ] **05**: Projeto - Lessons Learned
