@@ -1,0 +1,46 @@
+/* Modifique a cor do texto do h1 para laranja */
+      /* Modifique o tamanho do h1 para 65 pixels */
+      /* Modifique o font-family do h1 para sans-serif */
+      h1 {
+        color: rgb(255, 166, 0);
+        width: 65px;
+        font-family: sans-serif;
+      }
+      /* Modifique o font-size do body para 16px */
+      body {
+        background-color: rgb(220, 209, 108);
+        font-size: 16px;
+      }
+
+      /* Modifique a cor de fundo da lista não ordenada */
+
+      .list-style {
+        background-color: rgb(52, 168, 174);
+      }
+
+      /* Deixe o parágrafo com o font-weight 600 */
+      /* Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body */
+      p {
+        font-weight: 600;
+        font-size: 3em;
+      }
+
+      /* Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body */
+
+      .paragrafo-class {
+        font-style: italic;
+        line-height: 3;
+        text-align: justify;
+        text-decoration: double;
+      }
+      /* Troque a cor de fundo de cada item da lista para a cor correspondente ao texto */
+
+      #yellow {
+        background-color: yellow;
+      }
+      #red {
+        background-color: red;
+      }
+      #brown {
+        background-color: brown;
+      }
