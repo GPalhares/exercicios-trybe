@@ -1,0 +1,6 @@
+li:nth-child(even)  {color: rgb(47, 255, 20);}
+li:nth-child(odd)  {text-transform: uppercase;}
+
+h1 , h3{color: red;}
+
+h1,h3:nth-of-type(italic)  {color: rgb(72, 25, 191);}
