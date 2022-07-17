@@ -1,6 +1,38 @@
-li:nth-child(even)  {color: rgb(47, 255, 20);}
-li:nth-child(odd)  {text-transform: uppercase;}
+li:nth-child(even) {
+  color: rgb(47, 255, 20);
+}
+li:nth-child(odd) {
+  text-transform: uppercase;
+}
 
-h1 , h3{color: red;}
+h1,
+h3 {
+  color: red;
+}
 
-h1,h3:nth-of-type(italic)  {color: rgb(72, 25, 191);}
+h1,
+h3 italic {
+  font-size: 40px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+ol li {
+  background-color: yellow;
+}
+
+li {
+  font-size: 20px;
+}
+li italic {
+  font-weight: bold;
+}
+
+ul :nth-child(-n + 3) {
+  color: blue;
+}
+
+ul li :nth-of-type() {
+  color: rgb(129, 31, 92);
+}
