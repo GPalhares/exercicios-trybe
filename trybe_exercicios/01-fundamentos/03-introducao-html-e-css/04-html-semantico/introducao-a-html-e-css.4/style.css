@@ -1,0 +1,22 @@
+.links{display:inline-block;
+    padding: 10px;
+
+}
+.texto-paragrafos{width: 500px;
+font-size: large;
+}
+
+.artigo-left{
+    
+    display: inline-block;
+   
+}
+.artigo-right{
+    display: inline-block;
+   padding-left: 500px;
+    
+}
+footer{
+    padding: 15px;
+    background-color: rgb(97, 83, 255);
+}
