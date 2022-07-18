@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+  }
+
+  .first {
+    background-color: rgb(235, 200, 84);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 200px;
+    display: block;
+    margin-left: 215px;
+   
+    
+  }
+
+  .second {
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    display: inline-block;
+    
+  }
+
+  .third {
+    background-color: rgb(170, 142, 106);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    display: inline-block;  }
+
+  .premiacoes ul li {
+    display: inline;
+  }
+
+  .premiacoes h3 {
+    padding-left: 210px;
+  }
+
+  header h1{
+    display: inline;
+    padding-left: 220px;
+  }
