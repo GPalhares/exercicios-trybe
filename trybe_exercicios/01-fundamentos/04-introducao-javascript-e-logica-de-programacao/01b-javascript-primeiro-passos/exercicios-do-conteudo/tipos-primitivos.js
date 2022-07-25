@@ -8,8 +8,10 @@
 
 // console.log(typeof patientEmail, typeof isEnrolled, typeof patientInfo,)
 
-const base = 5;
-var height = 8;
-const area = base * height;
-const perimeter = area + base + height;
-console.log(perimeter)
+function calcPerimeter(base, height) {
+  const area = base * height;
+  const perimeter = area + base + height;
+  console.log(perimeter);
+}
+
+calcPerimeter(5, 8);

@@ -7,30 +7,30 @@
 // console.log(false && true); // false
 // console.log(false && false); // false
 
-const currentHour = 20;
-let message = "";
+function verificarHora(currentHour) {
+  let message = "";
 
-if (currentHour >= 22){
-    message = "Não deveriamos Comer nada está tarde"
-} 
+  if (currentHour >= 22) {
+    message = "Não deveriamos Comer nada está tarde";
+  } else if (currentHour >= 18 && currentHour < 22) {
+    message = "Rango da noite vamos jantar :D";
+  } else if (currentHour >= 14 && currentHour < 18) {
+    message = "Vamos fazer um bolo para o café da tarde?";
+  } else if (currentHour > 11 && currentHour < 14) {
+    message = "Hora do Almoço! IHUUU";
+  } else if (currentHour > 4 && currentHour < 11) {
+    message = "Hmm cheiro de café recém passado";
+  }
 
-else if(currentHour >= 18 && currentHour < 22){
-    message = "Rango da noite vamos jantar :D"}
-
-else if (currentHour >= 14 && currentHour < 18){
-    message = "Vamos fazer um bolo para o café da tarde?"
+  console.log(message);
 }
 
-else if (currentHour > 11 && currentHour < 14){
-    message = "Hora do Almoço! IHUUU"
-}
-
-else if (currentHour > 4 && currentHour < 11){
-    message = "Hmm cheiro de café recém passado"
-}
+verificarHora(10);
+verificarHora(16);
+verificarHora(20);
+verificarHora(5);
 
 // console.log(message)
-
 
 // weekDay = "quarta-feira"
 
@@ -42,6 +42,6 @@ else if (currentHour > 4 && currentHour < 11){
 //     console.log("Ufaa Descanso merecido!!")
 // }
 
-const squirtle = "melhor pokemon inicial";
+// const squirtle = "melhor pokemon inicial";
 
-console.log(!squirtle); // false
+// console.log(!squirtle); // false
