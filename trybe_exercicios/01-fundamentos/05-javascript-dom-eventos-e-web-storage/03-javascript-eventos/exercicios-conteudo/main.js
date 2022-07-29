@@ -39,6 +39,7 @@ input.addEventListener("keyup", textBox);
 function redirectPage() {
   window.open("https://blog.betrybe.com/", "_blank");
 }
+
 myWebpage.addEventListener("dblclick", redirectPage);
 
 // 5. Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere
