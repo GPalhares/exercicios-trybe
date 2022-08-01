@@ -106,3 +106,31 @@ botaoFriday.addEventListener("click", function () {
     }
   }
 });
+
+function dayMouseOver() {
+  let days = document.querySelector("#days");
+  days.addEventListener("mouseover", function (event) {
+    event.target.style.fontSize = "30px";
+    event.target.style.fontWeight = "600"; // Ele pega o evento alvo e altera o estilo de fontWeight para 600
+  });
+}
+
+function dayMouseOut() {
+  let days = document.querySelector("#days");
+  days.addEventListener("mouseout", function (event) {
+    event.target.style.fontSize = "20px";
+    event.target.style.fontWeight = "200"; // Ele pega o evento alvo e altera o estilo de fontWeight para 200
+  });
+}
+dayMouseOver();
+dayMouseOut();
+
+function adicionaCalendario(task) {
+  const divPai = document.querySelector(".my-tasks");
+  inputUser = document.createElement("span");
+  inputUser.innerHTML = task;
+  divPai.appendChild(inputUser);
+}
+//const botaoAdd = document.getElementById("btn-add");
+adicionaCalendario("asda");
+//botaoAdd.addEventListener("click", adicionaCalendario);
