@@ -1,0 +1,21 @@
+*{
+    font-family: monospace;
+    font-size: 15px;
+    color: white;
+}
+
+#formulario{
+    padding: 10px;
+    margin: 5px;
+    font-family: monospace;
+}
+
+input{padding: 2px;
+margin: 2px;}
+
+header{font-size: large;
+font-family: monospace;}
+
+#textarea-input{
+    resize: none;
+}
