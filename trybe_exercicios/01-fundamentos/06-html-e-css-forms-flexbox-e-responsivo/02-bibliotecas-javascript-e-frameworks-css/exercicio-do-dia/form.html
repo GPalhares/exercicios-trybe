@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="dist/css/DatePickerX.min.css">
+     <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+  </head>
+  <body style="background-color: rgb(153, 118, 248)" class="border border-primary">
+    <header class="text-center" style="padding-right: 380px;">Formulario para concorrer uma viagem!</header>
+    <form class="container text-center" action="" id="formulario">
+      <label for="nome-input" > Nome : </label>
+      <input class="text-bg-dark p-1"  
+        minlength="10"
+        maxlength="40"
+        type="text"
+        name="nome"
+        id="nome-input" 
+        autofocus
+      />
+      <div></div>
+      <label for="email-input class="text-bg-dark p-1>Email:</label>
+      <input class="text-bg-dark p-1"
+        minlength="10"
+        maxlength="50"
+        type="text"
+        name="Email"
+        id="email-input" class="text-bg-dark p-1"
+      />
+      <p style="font-size: 15px">Destino Preferido :</p>
+      <div style="padding-bottom: 10px">
+        <label for="local-1">
+          <input class="text-bg-dark p-1" type="radio" name="local" id="local-1" /> Cidade</label
+        >
+        <label for="local-2">
+          <input class="text-bg-dark p-1" type="radio" name="local" id="local-2" /> Campo</label
+        >
+        <label for="local-3">
+          <input class="text-bg-dark p-1" type="radio" name="local" id="local-3" /> Praia</label
+        >
+        <label for="local-4">
+          <input class="text-bg-dark p-1" type="radio" name="local" id="local-4" /> Motanhas</label
+        >
+      </div>
+      <label style="font-size: 15px" for="textarea-input class="text-bg-dark p-1
+        >Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso
+        TrybeTrip?</label
+      >
+      <div style="padding-top: 10px"></div>
+      <div>
+        <textarea
+          name="text-area"
+          id="textarea-input" class="text-bg-dark p-1"
+          cols="30"
+          rows="10"
+          maxlength="500"
+          style="background-color: black;"
+          
+        ></textarea>
+        <div></div>
+        <label  for="data-input" class="text-bg-dark p-1">Data :</label>
+        <input
+          type="text"
+          name="data"
+          id="data-input"
+          placeholder="dd/mm/aaaa"
+          size="10px"
+          style="background-color: black;"
+          
+        />
+      </div>
+
+      <div style="padding: 5px"></div>
+      <input id="opt1" class="text-bg-dark p-1" required type="checkbox" name="opt1" />
+      <label  for="opt1"
+        >Gostaria de receber outras incríveis oportunidades oferecidas pela
+        Trybe?</label
+      >
+      <div></div>
+      <input id="opt2" class="text-bg-dark p-1" required type="checkbox" name="opt2" />
+      <label for="opt2"
+        >Concordo que imagens das minhas férias poderão ser usadas na divulgação
+        de concursos futuros.</label
+      >
+      <div style="padding: 10px"></div>
+      <button class="btn btn-success" id="button-submit"class="btn btn-success type="submit">Enviar</button class="btn btn-success">
+      <button class="btn btn-success" type="reset">Limpar</button class="btn btn-success">
+    </form>
+  </body>
+  <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js"></script>
+
+<script src="dist/js/DatePickerX.min.js"></script>
+  <script src="jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="script.js"></script>
+</html>
