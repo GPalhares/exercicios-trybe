@@ -38,39 +38,39 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
  - [X] **01**: Introdução - HTML & CSS
  - [X] **01**: HTML & CSS - Estruturas de página
  - [X] **02**: HTML & CSS - Primeiros passos em CSS
- - [ ] **03**: HTML & CSS - Seletores e posicionamento
- - [ ] **04**: HTML Semântico
- - [ ] **05**: Projeto - Lessons Learned
+ - [X] **03**: HTML & CSS - Seletores e posicionamento
+ - [X] **04**: HTML Semântico
+ - [X] **05**: Projeto - Lessons Learned
 
 **Bloco 04: Introdução à JavaScript e Lógica de Programação**
 
- - [ ] **01**: Introdução - JavaScript
- - [ ] **01**: JavaScript - Primeiros passos
- - [ ] **02**: JavaScript - Array e loop For
- - [ ] **03**: JavaScript - Lógica de Programação e Algoritmos
- - [ ] **04**: JavaScript - Objetos e funções
- - [ ] **05**: Projeto - Playground Functions
+ - [X] **01**: Introdução - JavaScript
+ - [X] **01**: JavaScript - Primeiros passos
+ - [X] **02**: JavaScript - Array e loop For
+ - [X] **03**: JavaScript - Lógica de Programação e Algoritmos
+ - [X] **04**: JavaScript - Objetos e funções
+ - [X] **05**: Projeto - Playground Functions
 
 ### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
- - [ ] **01**: JavaScript - DOM e seletores
- - [ ] **02**: JavaScript - Trabalhando com elementos
- - [ ] **03**: JavaScript - Eventos
- - [ ] **04**: JavaScript - Web Storage
- - [ ] **05**: Fundamentos - JavaScript - Projetos
- - [ ] **05**: Projeto - Arte com Pixels
- - [ ] **06**: (Bônus) Projeto - Lista de tarefas
- - [ ] **07**: (Bônus) Projeto - Meme Generator
- - [ ] **07**: (Bônus) Projeto - Adivinhe a Cor
- - [ ] **07**: (Bônus) Projeto - Carta Misteriosa
+ - [X] **01**: JavaScript - DOM e seletores
+ - [X] **02**: JavaScript - Trabalhando com elementos
+ - [X] **03**: JavaScript - Eventos
+ - [X] **04**: JavaScript - Web Storage
+ - [X] **05**: Fundamentos - JavaScript - Projetos
+ - [X] **05**: Projeto - Arte com Pixels
+ - [X] **06**: (Bônus) Projeto - Lista de tarefas
+ - [X] **07**: (Bônus) Projeto - Meme Generator
+ - [X] **07**: (Bônus) Projeto - Adivinhe a Cor
+ - [X] **07**: (Bônus) Projeto - Carta Misteriosa
 
 
 ### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
- - [ ] **01**: HTML & CSS - Forms
- - [ ] **02**: Bibliotecas JavaScript e Frameworks CSS
- - [ ] **03**: Introdução - CSS Flexbox
- - [ ] **03**: CSS Flexbox - Parte 1
+ - [X] **01**: HTML & CSS - Forms
+ - [X] **02**: Bibliotecas JavaScript e Frameworks CSS
+ - [X] **03**: Introdução - CSS Flexbox
+ - [X] **03**: CSS Flexbox - Parte 1
  - [ ] **04**: CSS Flexbox - Parte 2
  - [ ] **05**: CSS Responsivo - Mobile First
  - [ ] **06**: Projeto - Trybewarts
