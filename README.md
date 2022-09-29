@@ -71,28 +71,28 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
  - [X] **02**: Bibliotecas JavaScript e Frameworks CSS
  - [X] **03**: Introdução - CSS Flexbox
  - [X] **03**: CSS Flexbox - Parte 1
- - [ ] **04**: CSS Flexbox - Parte 2
- - [ ] **05**: CSS Responsivo - Mobile First
- - [ ] **06**: Projeto - Trybewarts
+ - [X] **04**: CSS Flexbox - Parte 2
+ - [X] **05**: CSS Responsivo - Mobile First
+ - [X] **06**: Projeto - Trybewarts
 
 ### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
- - [ ] **01**: JavaScript ES6 - let, const, arrow functions e template
+ - [X] **01**: JavaScript ES6 - let, const, arrow functions e template
        literals
- - [ ] **02**: JavaScript ES6 - Fluxo de exceção e Objetos
- - [ ] **03**: Primeiros passos em Jest
- - [ ] **04**: Projeto - JavaScript Testes Unitários
+ - [X] **02**: JavaScript ES6 - Fluxo de exceção e Objetos
+ - [X] **03**: Primeiros passos em Jest
+ - [X] **04**: Projeto - JavaScript Testes Unitários
 
 ### Bloco 08: Higher Order Functions do JavaScript ES6
 
- - [ ] **01**: JavaScript ES6 - Introdução a Higher Order Functions
- - [ ] **02**: JavaScript ES6 - Higher Order Functions - forEach, find,
+ - [X] **01**: JavaScript ES6 - Introdução a Higher Order Functions
+ - [X] **02**: JavaScript ES6 - Higher Order Functions - forEach, find,
        some, every, sort
- - [ ] **03**: JavaScript ES6 - Higher Order Functions - map e filter
- - [ ] **04**: JavaScript ES6 - Higher Order Functions - reduce
- - [ ] **05**: JavaScript ES6 - spread operator, parâmetro rest,
+ - [X] **03**: JavaScript ES6 - Higher Order Functions - map e filter
+ - [X] **04**: JavaScript ES6 - Higher Order Functions - reduce
+ - [X] **05**: JavaScript ES6 - spread operator, parâmetro rest,
        destructuring e mais
- - [ ] **06**: Projeto - Zoo functions
+ - [X] **06**: Projeto - Zoo functions
 
 <br>
 
@@ -108,28 +108,28 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
 ### Bloco 09: JavaScript e Testes Assíncronos
 
- - [ ] **01**: Introdução - Front-end
- - [ ] **01**: JavaScript Assíncrono e Callbacks
- - [ ] **02**: JavaScript Assíncrono - Fetch API e async/await
- - [ ] **03**: Jest - Testes Assíncronos
- - [ ] **04**: Projeto - Carrinho de Compras
+ - [X] **01**: Introdução - Front-end
+ - [X] **01**: JavaScript Assíncrono e Callbacks
+ - [X] **02**: JavaScript Assíncrono - Fetch API e async/await
+ - [X] **03**: Jest - Testes Assíncronos
+ - [X] **04**: Projeto - Carrinho de Compras
 
 ### Bloco 10: Introdução à React
 
- - [ ] **01**: Introdução - React
- - [ ] **01**: 'Hello, world!' no React!
- - [ ] **02**: Componentes React
- - [ ] **03**: Projeto - Sistema Solar
+ - [X] **01**: Introdução - React
+ - [X] **01**: 'Hello, world!' no React!
+ - [X] **02**: Componentes React
+ - [X] **03**: Projeto - Sistema Solar
 
 ### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
- - [ ] **01**: Componentes com estado e eventos
- - [ ] **02**: Formulários no React
- - [ ] **03**: Projeto - Tryunfo
+ - [X] **01**: Componentes com estado e eventos
+ - [X] **02**: Formulários no React
+ - [X] **03**: Projeto - Tryunfo
 
 ### Bloco 12: Ciclo de Vida de Componentes e React Router
 
- - [ ] **01**: Ciclo de vida de componentes
+ - [X] **01**: Ciclo de vida de componentes
  - [ ] **02**: React Router
  - [ ] **03**: Projeto - TrybeTunes
 
