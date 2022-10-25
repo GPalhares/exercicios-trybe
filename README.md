@@ -130,25 +130,25 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 ### Bloco 12: Ciclo de Vida de Componentes e React Router
 
  - [X] **01**: Ciclo de vida de componentes
- - [ ] **02**: React Router
- - [ ] **03**: Projeto - TrybeTunes
+ - [X] **02**: React Router
+ - [X] **03**: Projeto - TrybeTunes
 
 ### Bloco 13: Metodologias Ágeis
 
- - [ ] **01**: Metodologias Ágeis
- - [ ] **02**: Projeto - Frontend Online Store
+ - [X] **01**: Metodologias Ágeis
+ - [X] **02**: Projeto - Frontend Online Store
 
 ### Bloco 14: Testes automatizados com React Testing Library
 
- - [ ] **01**: RTL - Primeiros passos
- - [ ] **02**: RTL - Mocks e Inputs
- - [ ] **03**: RTL - Testando React Router
- - [ ] **04**: Projeto - Testes em React
+ - [X] **01**: RTL - Primeiros passos
+ - [X] **02**: RTL - Mocks e Inputs
+ - [X] **03**: RTL - Testando React Router
+ - [X] **04**: Projeto - Testes em React
 
 ### Bloco 15: Gerenciamento de estado com Redux
 
- - [ ] **01**: Introdução ao Redux - O estado global da aplicação
- - [ ] **02**: Usando o Redux no React
+ - [X] **01**: Introdução ao Redux - O estado global da aplicação
+ - [X] **02**: Usando o Redux no React
  - [ ] **03**: Usando o Redux no React - Prática
  - [ ] **04**: Usando o Redux no React - Actions Assíncronas
  - [ ] **05**: Testes em React-Redux
