@@ -149,25 +149,25 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
  - [X] **01**: Introdução ao Redux - O estado global da aplicação
  - [X] **02**: Usando o Redux no React
- - [ ] **03**: Usando o Redux no React - Prática
- - [ ] **04**: Usando o Redux no React - Actions Assíncronas
- - [ ] **05**: Testes em React-Redux
- - [ ] **06**: Projeto - Trybe Wallet
+ - [X] **03**: Usando o Redux no React - Prática
+ - [X] **04**: Usando o Redux no React - Actions Assíncronas
+ - [X] **05**: Testes em React-Redux
+ - [X] **06**: Projeto - Trybe Wallet
 
 ### Bloco 16: Projeto Jogo de Trivia
 
- - [ ] **01**: Projeto - Jogo de Trivia
+ - [X] **01**: Projeto - Jogo de Trivia
 
 ### Bloco 17: Context API e React Hooks
 
- - [ ] **01**: Context API do React
- - [ ] **02**: React Hooks - useState e useContext
- - [ ] **03**: React Hooks - useEffect e Hooks customizados
- - [ ] **04**: Projeto - StarWars Datatable com Context API e Hooks
+ - [X] **01**: Context API do React
+ - [X] **02**: React Hooks - useState e useContext
+ - [X] **03**: React Hooks - useEffect e Hooks customizados
+ - [X] **04**: Projeto - StarWars Datatable com Context API e Hooks
 
 ### Bloco 18: Projeto App de Receitas
 
- - [ ] **01**: Projeto - App de Receitas
+ - [X] **01**: Projeto - App de Receitas
 
 <br>
 
