@@ -183,31 +183,31 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
 ### Bloco 19: Docker: Utilizando Containers
 
- - [ ] **01**: Introdução - Back-end
- - [ ] **01**: Utilizando Containers - Docker
- - [ ] **02**: Manipulando Imagens no Docker
- - [ ] **03**: Orquestrando Containers com Docker Compose
- - [ ] **04**: Projeto - Docker Todo-List
+ - [X] **01**: Introdução - Back-end
+ - [X] **01**: Utilizando Containers - Docker
+ - [X] **02**: Manipulando Imagens no Docker
+ - [X] **03**: Orquestrando Containers com Docker Compose
+ - [X] **04**: Projeto - Docker Todo-List
 
 ### Bloco 20: Introdução à SQL
 
- - [ ] **01**: Introdução - Bancos de dados relacionais
- - [ ] **01**: Banco de dados SQL
- - [ ] **02**: Encontrando dados em um banco de dados
- - [ ] **03**: Filtrando dados de forma específica
- - [ ] **04**: Manipulando tabelas
- - [ ] **05**: Projeto - All For One
+ - [X] **01**: Introdução - Bancos de dados relacionais
+ - [X] **01**: Banco de dados SQL
+ - [X] **02**: Encontrando dados em um banco de dados
+ - [X] **03**: Filtrando dados de forma específica
+ - [X] **04**: Manipulando tabelas
+ - [X] **05**: Projeto - All For One
 
 ### Bloco 21: Funções SQL, JOINs e Normalização
 
- - [ ] **01**: Funções mais usadas no SQL
- - [ ] **02**: Descomplicando JOINs
- - [ ] **03**: Transformando ideias em um modelo de banco de dados
- - [ ] **04**: Aula ao vivo + Projeto - One For All
+ - [X] **01**: Funções mais usadas no SQL
+ - [X] **02**: Descomplicando JOINs
+ - [X] **03**: Transformando ideias em um modelo de banco de dados
+ - [X] **04**: Aula ao vivo + Projeto - One For All
 
 ### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
- - [ ] **01**: Intro - Node.js
+ - [X] **01**: Intro - Node.js
  - [ ] **01**: Node.js - Um motor JavaScript
  - [ ] **02**: Node.js - Fluxo Assíncrono
  - [ ] **03**: Mocha, Chai e Sinon - Testes de Back-end com Node.js
