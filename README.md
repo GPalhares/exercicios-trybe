@@ -208,12 +208,12 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 ### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
  - [X] **01**: Intro - Node.js
- - [ ] **01**: Node.js - Um motor JavaScript
- - [ ] **02**: Node.js - Fluxo Assíncrono
- - [ ] **03**: Mocha, Chai e Sinon - Testes de Back-end com Node.js
- - [ ] **04**: Express - HTTP com Node.js
- - [ ] **05**: Express - Middlewares
- - [ ] **06**: Atividades + Projeto - Talker Manager
+ - [X] **01**: Node.js - Um motor JavaScript
+ - [X] **02**: Node.js - Fluxo Assíncrono
+ - [X] **03**: Mocha, Chai e Sinon - Testes de Back-end com Node.js
+ - [X] **04**: Express - HTTP com Node.js
+ - [X] **05**: Express - Middlewares
+ - [X] **06**: Atividades + Projeto - Talker Manager
 
 ### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
