@@ -16,12 +16,12 @@ module.exports = (sequelize, _DataTypes) => {
           foreignKey: 'bookId', // se refere ao id de Book na tabela de `users_books`
           otherKey: 'userId', // se refere a outra chave de `users_books`
         });
-        // models.User.belongsToMany(models.Book, {
-        //   as: 'books',
-        //   through: UserBook,
-        //   foreignKey: 'userId', // se refere ao id de User na tabela de `users_books`
-        //   otherKey: 'bookId',
-        // });
+        models.User.belongsToMany(models.Book, {
+          as: 'books',
+          through: UserBook,
+          foreignKey: 'userId', // se refere ao id de User na tabela de `users_books`
+          otherKey: 'bookId',
+        });
       };
   
     return UserBook;
