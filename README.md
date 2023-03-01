@@ -217,18 +217,18 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
 ### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
- - [ ] **01**: Introdução - Arquitetura de Software
- - [ ] **01**: Arquitetura de Software - Camada de Model
- - [ ] **02**: Arquitetura de Software - Camada de Controller e Service
- - [ ] **03**: Arquitetura Web - Rest e Restful
- - [ ] **04**: Arquitetura de Software - Testando as Camadas
- - [ ] **05**: Projeto - Store Manager
+ - [X] **01**: Introdução - Arquitetura de Software
+ - [X] **01**: Arquitetura de Software - Camada de Model
+ - [X] **02**: Arquitetura de Software - Camada de Controller e Service
+ - [X] **03**: Arquitetura Web - Rest e Restful
+ - [X] **04**: Arquitetura de Software - Testando as Camadas
+ - [X] **05**: Projeto - Store Manager
 
 ### Bloco 24: Node.js: ORM e Autenticação
 
- - [ ] **01**: Introdução - Node.js: ORM e Autenticação
- - [ ] **01**: ORM - Interface da aplicação com o banco de dados
- - [ ] **02**: ORM - Associations
+ - [X] **01**: Introdução - Node.js: ORM e Autenticação
+ - [X] **01**: ORM - Interface da aplicação com o banco de dados
+ - [X] **02**: ORM - Associations
  - [ ] **03**: JWT - (JSON Web Token)
  - [ ] **04**: Testando APIs com Testes de Integração
  - [ ] **05**: Projeto - API de Blogs
