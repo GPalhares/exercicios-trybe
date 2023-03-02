@@ -32,10 +32,10 @@ module.exports = async (req, res, next) => {
   /* Caso ocorra erro na validação do Joi, passamos esse */
   /* erro para o express, que chamará nosso middleware de erro */
   if (error) return next(error);
-
+  const admin = req.body.username === 'admin' && req.body.password === 's3nh4S3gur4???';
   const payload = {
     username: req.body.username,
-    admin: false,
+    admin,
   };
   
   const token = jwt.sign(payload, JWT_SECRET, {
