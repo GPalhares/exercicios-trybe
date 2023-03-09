@@ -66,3 +66,9 @@ console.log(`- B = 75 , b = 50, h = 35: ${Ex.getTrapezePerimeter(75, 50, 35)}`);
 console.log(
   `- B = 150 , b = 120, h = 80: ${Ex.getTrapezePerimeter(150, 120, 80)}`
 );
+
+console.log('\nVERIFICA O TAMANHO DO CIRCLE:');
+
+console.log(`- R = 25: ${Ex.getCirclePerimeter(25)}`);
+console.log(`- R = 100: ${Ex.getCirclePerimeter(100)}`);
+console.log(`- R = 12.5: ${Ex.getCirclePerimeter(12.5)}`);
