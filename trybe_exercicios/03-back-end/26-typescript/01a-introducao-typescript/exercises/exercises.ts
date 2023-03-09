@@ -39,3 +39,7 @@ export function getTrapezePerimeter(
 ): number {
   return (bBigger * bSmaller * height) / 2;
 }
+
+export function getCirclePerimeter(raio: number): number {
+  return raio * (3.14 * 2);
+}
