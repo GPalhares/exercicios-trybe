@@ -31,3 +31,11 @@ export function getLosanglePerimeter(
 ): number {
   return (dbigger * dsmaller) / 2;
 }
+
+export function getTrapezePerimeter(
+  bBigger: number,
+  bSmaller: number,
+  height: number
+): number {
+  return (bBigger * bSmaller * height) / 2;
+}
