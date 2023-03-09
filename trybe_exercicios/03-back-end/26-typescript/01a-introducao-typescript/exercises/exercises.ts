@@ -24,3 +24,10 @@ export function triangleCheck(
   const checkSideC = sideA - sideB < sideC && sideC < sideA + sideB;
   return checkSideA && checkSideB && checkSideC;
 }
+
+export function getLosanglePerimeter(
+  dbigger: number,
+  dsmaller: number
+): number {
+  return (dbigger * dsmaller) / 2;
+}
