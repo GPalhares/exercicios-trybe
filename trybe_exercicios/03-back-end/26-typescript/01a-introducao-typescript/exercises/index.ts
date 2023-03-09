@@ -51,6 +51,18 @@ console.log(`- 10cm, 5cm e 3cm: ${Ex.triangleCheck(10, 5, 3)}`);
 console.log(`- 10cm, 5cm e 3cm: ${Ex.triangleCheck(10, 5, 8)}`);
 console.log(`- 10cm, 5cm e 3cm: ${Ex.triangleCheck(30, 30, 30)}`);
 
+console.log('\nVERIFICA O TAMANHO DO LOSANGLE:');
+
 console.log(`- D = 32, d = 18: ${Ex.getLosanglePerimeter(32, 18)}`);
 console.log(`- D = 200, d = 50: ${Ex.getLosanglePerimeter(200, 50)}`);
 console.log(`- D = 75, d = 25: ${Ex.getLosanglePerimeter(75, 25)}`);
+
+console.log('\nVERIFICA O TAMANHO DO TRAPEZE:');
+
+console.log(
+  `- B = 100 , b = 70, h = 50: ${Ex.getTrapezePerimeter(100, 70, 50)}`
+);
+console.log(`- B = 75 , b = 50, h = 35: ${Ex.getTrapezePerimeter(75, 50, 35)}`);
+console.log(
+  `- B = 150 , b = 120, h = 80: ${Ex.getTrapezePerimeter(150, 120, 80)}`
+);
