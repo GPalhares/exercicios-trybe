@@ -230,8 +230,8 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
  - [X] **01**: ORM - Interface da aplicação com o banco de dados
  - [X] **02**: ORM - Associations
  - [X] **03**: JWT - (JSON Web Token)
- - [ ] **04**: Testando APIs com Testes de Integração
- - [ ] **05**: Projeto - API de Blogs
+ - [X] **04**: Testando APIs com Testes de Integração
+ - [X] **05**: Projeto - API de Blogs
 
 ### Bloco 25: Deployment
 
@@ -242,16 +242,16 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
 ### Bloco 26: TypeScript
 
- - [ ] **01**: Introdução - TypeScript
- - [ ] **01**: Introdução ao TypeScript
- - [ ] **02**: Tipagem Estática e Generics
- - [ ] **03**: Express com TypeScript
- - [ ] **04**: Projeto - Trybe Smith
+ - [x] **01**: Introdução - TypeScript
+ - [x] **01**: Introdução ao TypeScript
+ - [x] **02**: Tipagem Estática e Generics
+ - [x] **03**: Express com TypeScript
+ - [x] **04**: Projeto - Trybe Smith
 
 ### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
- - [ ] **01**: Introdução à Orientação a Objetos
- - [ ] **02**: Herança e Interfaces
+ - [x] **01**: Introdução à Orientação a Objetos
+ - [x] **02**: Herança e Interfaces
  - [ ] **03**: Polimorfismo
  - [ ] **04**: SOLID - Introdução e Princípios S, O e D
  - [ ] **05**: SOLID - Princípios L e I
