@@ -1,18 +1,19 @@
-import Employee from './Employee';
+export default class Subject {
+  constructor(private _name: string) {
+    this.name = _name;
+  }
 
-const testInterfaceEmployee: Employee = {
-  registration: 'FNC1234567891011',
-  salary: 1200.0,
-  admissionDate: new Date(),
+  get name(): string {
+    return this._name;
+  }
 
-  generateRegistration(): string {
-    const randomStr = String(Date.now() * (Math.random() + 1)).replace(
-      /\W/g,
-      ''
-    );
+  set name(value: string) {
+    this.validateName(value);
+    this._name = value;
+  }
 
-    return `FNC${randomStr}`;
-  },
-};
-
-console.log(testInterfaceEmployee);
+  private validateName(value: string): void {
+    if (value.length < 3)
+      throw new Error('O nome deve conter no mínimo 3 caracteres.');
+  }
+}
