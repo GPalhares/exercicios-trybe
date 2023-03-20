@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-typescript-project": "^0.8.0"
+  }
+}
