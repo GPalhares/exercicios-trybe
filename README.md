@@ -252,30 +252,30 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
  - [x] **01**: Introdução à Orientação a Objetos
  - [x] **02**: Herança e Interfaces
- - [ ] **03**: Polimorfismo
- - [ ] **04**: SOLID - Introdução e Princípios S, O e D
- - [ ] **05**: SOLID - Princípios L e I
- - [ ] **06**: Projeto - Trybers and Dragons
+ - [X] **03**: Polimorfismo
+ - [X] **04**: SOLID - Introdução e Princípios S, O e D
+ - [X] **05**: SOLID - Princípios L e I
+ - [X] **06**: Projeto - Trybers and Dragons
 
 ### Bloco 28: Projeto - TFC - Trybe Futebol Clube
 
- - [ ] **01**: Projeto - TFC - Trybe Futebol Clube
+ - [X] **01**: Projeto - TFC - Trybe Futebol Clube
 
 ### Bloco 29: Introdução ao MongoDB
 
- - [ ] **01**: Introdução - NoSQL
- - [ ] **01**: MongoDB - Introdução
- - [ ] **02**: Filter Operators
- - [ ] **03**: Operadores de consulta
- - [ ] **04**: Updates Simples
- - [ ] **05**: Updates Complexos - Arrays
- - [ ] **06**: Projeto - Commerce
+ - [X] **01**: Introdução - NoSQL
+ - [X] **01**: MongoDB - Introdução
+ - [X] **02**: Filter Operators
+ - [X] **03**: Operadores de consulta
+ - [X] **04**: Updates Simples
+ - [X] **05**: Updates Complexos - Arrays
+ - [X] **06**: Projeto - Commerce
 
 ### Bloco 30: MongoDB com Node.js e POO
 
- - [ ] **01**: MongoDB e arquitetura MSC
- - [ ] **02**: MongoDB e POO
- - [ ] **03**: Projeto - Car Shop
+ - [X] **01**: MongoDB e arquitetura MSC
+ - [X] **02**: MongoDB e POO
+ - [X] **03**: Projeto - Car Shop
 
 ### Bloco 31: Projeto - App de Delivery
 
